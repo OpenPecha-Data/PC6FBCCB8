@@ -1,0 +1,130 @@
+id: PC6FBCCB8
+initial_creation_type: input
+source_metadata:
+  title: 'Mātṛceṭa: Varṇārhavarṇastotra'
+  language: bo
+  volumes:
+    a0c0da087d4a4866922a810f52c1a008:
+      title: CIII_Verses 1-22
+      base_file: CIII_Verses 1-22.txt
+      work_id: WC4CAF501
+    97404e9aaf664194a5fa2b99aced5d8a:
+      title: CII_Verses 1-20
+      base_file: CII_Verses 1-20.txt
+      work_id: W414C975E
+    c534f387c1334b8fa0e2fc013f3d2a8e:
+      title: CII_Verses 21-40
+      base_file: CII_Verses 21-40.txt
+      work_id: WF6446483
+    156f6f7b55c94f6ab57eef5ceacda95f:
+      title: CII_Verses 41-60
+      base_file: CII_Verses 41-60.txt
+      work_id: W866B9D79
+    fe45748fa54b41bca3ad781cb5f23a73:
+      title: CII_Verses 61-75
+      base_file: CII_Verses 61-75.txt
+      work_id: W7BBED855
+    38c5086ce01d493d94943824967cf60d:
+      title: CIV_Verses 1-26
+      base_file: CIV_Verses 1-26.txt
+      work_id: WDFF1D34D
+    08102528bcd24721bca39e0b149dba01:
+      title: CIX_Verses 1-20
+      base_file: CIX_Verses 1-20.txt
+      work_id: WB6DB2B99
+    ed58491c0891415ca1cab6312815d992:
+      title: CIX_Verses 21-27
+      base_file: CIX_Verses 21-27.txt
+      work_id: WDE573235
+    7418fbe20e0c4bfabb0bfd0740a9d34a:
+      title: CI_Verses 1-15
+      base_file: CI_Verses 1-15.txt
+      work_id: W6ADA9DF6
+    81ff0445cbca4069a16929df4a7315c4:
+      title: CI_Verses 16-29
+      base_file: CI_Verses 16-29.txt
+      work_id: W1578417A
+    4fc603a9bf754a92b44a0f0cbdb61870:
+      title: CVIII_Verses 1-20
+      base_file: CVIII_Verses 1-20.txt
+      work_id: WBABD696B
+    797b53a81c7f495487ae34a729357f7c:
+      title: CVIII_Verses 21-34
+      base_file: CVIII_Verses 21-34.txt
+      work_id: W3FF8AFBE
+    d065e1472e984babaa57db9914b6b8be:
+      title: CVII_Verses 1-22
+      base_file: CVII_Verses 1-22.txt
+      work_id: W71C894B0
+    16c6b7d1a4de4f75b45b747037b16b91:
+      title: CVI_Verses 1-20
+      base_file: CVI_Verses 1-20.txt
+      work_id: W4194451F
+    e534b9b0efd54645ba226b13227a6299:
+      title: CVI_Verses 21-40
+      base_file: CVI_Verses 21-40.txt
+      work_id: WAF130842
+    08aed8a467af4f39934bf87f312efc98:
+      title: CV_Verses 1-15
+      base_file: CV_Verses 1-15.txt
+      work_id: W0E7947E3
+    b90183624c71438db69b73942d56ad9e:
+      title: CV_Verses 16-29
+      base_file: CV_Verses 16-29.txt
+      work_id: W45E44BFB
+    86081a422c5e400787ca60987050ba09:
+      title: CXIII_Verses 1-15
+      base_file: CXIII_Verses 1-15.txt
+      work_id: W3BFDDC4A
+    320a29f1b2ea47c4a281ef9a68e1af7c:
+      title: CXIII_Verses 16-32
+      base_file: CXIII_Verses 16-32.txt
+      work_id: W33CC930A
+    20f58999f259490cb8d1bb581cd6f6b5:
+      title: CXII_Verses 1-15
+      base_file: CXII_Verses 1-15.txt
+      work_id: W8A217183
+    3602447a401348b4ace593f6334e0e60:
+      title: CXI_Verses 1-15
+      base_file: CXI_Verses 1-15.txt
+      work_id: W543DAAAA
+    31e7757b6f2540d0987a3801e7d74169:
+      title: CXI_Verses 16-33
+      base_file: CXI_Verses 16-33.txt
+      work_id: WB8475C74
+    06493bb241144dca891527903ffc3795:
+      title: CX_Verses 1-20
+      base_file: CX_Verses 1-20.txt
+      work_id: W49A74CCC
+    9eb3c7e25cd54d99835639c6096bd8ff:
+      title: CX_Verses 21-34
+      base_file: CX_Verses 21-34.txt
+      work_id: W06E8B14A
+    cd0920b895154de2b0e047dd6c9fb82e:
+      title: Colophon
+      base_file: Colophon.txt
+      work_id: WAFD0E31D
+    35c9740a1e544f95a518396cc63428c2:
+      title: Preface
+      base_file: Preface.txt
+      work_id: W4FB99AD7
+    a9775dbe4fae4376be46a8ff7bbef4e8:
+      title: Title
+      base_file: Title.txt
+      work_id: WDF431B2F
+  chapter_to_tile:
+    CI: Chapter 1
+    CII: Chapter 2
+    CIII: Chapter 3
+    CIV: Chapter 4
+    CV: Chapter 5
+    CVI: Chapter 6
+    CVII: Chapter 7
+    CVIII: Chapter 8
+    CIX: Chapter 9
+    CX: Chapter 10
+    CXI: Chapter 11
+    CXII: Chapter 12
+    CXIII: Chapter 13
+created_at: '2022-03-01T23:39:48.895430'
+last_modified_at: '2022-03-01T23:39:48.895496'
